@@ -6,7 +6,7 @@
 ## 🎓 Program Identity
 - **cs60**: 60 ECTS Computer Science Master Program
 - **upmsc**: University of Prishtina Master of Science
-- **2022-2024 Cohort**: Data Science Specialization
+- **2025-2027 Cohort**: Data Science Specialization
 
 ## 📚 Academic Focus
 Collaborative knowledge base for the complete 60 ECTS Master curriculum in Computer Science with Data Science concentration. Structured repository containing course materials, research implementations, and group projects across four semesters of advanced study.
