@@ -19,6 +19,19 @@ All reading materials are available in the shared Google Drive folder:
 
 ---
 
+## 📒 Metodologjia e Hulumtimit Shkencor
+**Instructor:** Prof. Eliot Bytyqi  
+**Assistant:** Erblin Halabaku  
+**Evaluation:** Detyra 1–5 (10%, 10%, 10%, 35%, 35%)  
+**Contact:** eliot.bytyci@uni-pr.edu  
+**Drive Folder:** [📂 Research Methodology](https://drive.google.com/drive/u/3/folders/1ywjM-GTw9rbSzP9F5c6hcKsL6iJ9Em6G)
+
+**Literature:**
+- Umesh Kumar Bhayyalal Dubey and D. P. Kothari (2022), *Research Methodology Techniques and Trends*  ISBN-13(978-1138053984) (306 pages) [📚 View book](https://drive.google.com/file/d/12LUUFRksXMniIzKuatWSNFkhBgv0_LFd/view)
+- Herman Aguinis (2024) *Research Methodology: Best Practices for Rigorous, Credible, and Impactful Research* ISBN-13(978-1071871942) (616 pages) [📚 View book](https://drive.google.com/file/d/1atZj3q6F1cMF0v39cFruJ_YdnkTgc7O3/view)
+
+---
+
 ## 📗 Kalkulus i Avancuar
 **Instructor:** Prof. Behar Baxhaku  
 **Assistant:** Ilir Destani  
@@ -47,20 +60,6 @@ All reading materials are available in the shared Google Drive folder:
 
 ---
 
-## 📒 Metodologjia e Hulumtimit Shkencor
-**Instructor:** Prof. Eliot Bytyqi  
-**Assistant:** Erblin Halabaku  
-**Evaluation:** Detyra 1–5 (10%, 10%, 10%, 35%, 35%)  
-**Contact:** eliot.bytyci@uni-pr.edu  
-**Drive Folder:** [📂 Research Methodology](https://drive.google.com/drive/u/3/folders/1ywjM-GTw9rbSzP9F5c6hcKsL6iJ9Em6G)
-
-**Literature:**
-- Umesh Kumar Bhayyalal Dubey and D. P. Kothari (2022), *Research Methodology Techniques and Trends*  ISBN-13(978-1138053984) (306 pages) [📚 View book](https://drive.google.com/file/d/12LUUFRksXMniIzKuatWSNFkhBgv0_LFd/view)
-- Herman Aguinis (2024) *Research Methodology: Best Practices for Rigorous, Credible, and Impactful Research* ISBN-13(978-1071871942) (616 pages) [📚 View book](https://drive.google.com/file/d/1atZj3q6F1cMF0v39cFruJ_YdnkTgc7O3/view)
-
-- Zobel, *Writing for Computer Science*
-
----
 
 
 🧠 **Tips for Collaboration**
