@@ -1,7 +1,8 @@
 #!/bin/bash
 # dos2unix activate .env
 
-defaultEnvironmentPath="env/bin/activate"
+defaultEnvironmentFolderName="env"
+defaultEnvironmentPath="$defaultEnvironmentFolderName/bin/activate"
 defaultVariableEnvPath=".env"
 
 function removeLinesWithString() {
@@ -9,7 +10,7 @@ function removeLinesWithString() {
     local searchString="$2"
     file=$(echo "$file" | tr -d '\n')
     local removedLines
-    lineToRemove=$(cat .env | grep "$envString")
+    lineToRemove=$(cat $defaultVariableEnvPath | grep "$envString")
     if [[ -n "$lineToRemove" ]]; then
         tempFile=$(mktemp)
         echo "$searchString" "$file" "$tempFile"
@@ -33,7 +34,6 @@ else
     echo "Pyenv is not installed!"
 fi
 
-echo e3
 MACHINE_TYPE="linux"
 
 # Detect OS
