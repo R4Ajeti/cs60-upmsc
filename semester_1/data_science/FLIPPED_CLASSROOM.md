@@ -33,7 +33,7 @@ Each week, one or more students lead the session through presentations, datasets
 
 | FIRST NAME and LAST NAME | Chapter | Google Slides | Dataset | Hands-On Exercise |
 |---------------------------|----------|----------------|-----------|-------------------|
-| Elvira Jahaj | 2 | [🖼️ Slides](https://docs.google.com/presentation/d/1S1oBRwELvjjVMSjfgD1ROTxxdhDVnda1xQQEADSweqs/view) | [📂 Dataset](#) | [💻 Exercise](#) |
+| Elvira Jahaj | 2 | [🖼️ Slides](https://docs.google.com/presentation/d/1S1oBRwELvjjVMSjfgD1ROTxxdhDVnda1xQQEADSweqs/view) | [📂 Dataset](./OA_2.2_USArrests.csv) | [💻 Exercise](./HShDh_Chapter02_Exercise_1_1280x720_fit_optimized.jpg) |
 
 ---
 
@@ -42,7 +42,7 @@ Each week, one or more students lead the session through presentations, datasets
 
 | FIRST NAME and LAST NAME | Chapter | Google Slides | Dataset | Hands-On Exercise |
 |---------------------------|----------|----------------|-----------|-------------------|
-| Lehone Kalaveshi | 3 | [🖼️ Slides](https://drive.google.com/file/d/1GZasX90uLZ74uZ_dsbp1fGs3kAe2Bzl4/view) | [📂 Dataset](#) | [💻 Exercise](#) |
+| Lehone Kalaveshi | 3 | [🖼️ Slides](https://drive.google.com/file/d/1GZasX90uLZ74uZ_dsbp1fGs3kAe2Bzl4/view) | [📂 Dataset](./handson_dataset.csv) | [💻 Exercise](./HShDh_Chapter02_Exercise_1_1280x720_fit_optimized.jpg) |
 
 ---
 
