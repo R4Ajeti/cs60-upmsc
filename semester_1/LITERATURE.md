@@ -27,9 +27,9 @@ All reading materials are available in the shared Google Drive folder:
 **Drive Folder:** [📂 Calculus Materials](https://drive.google.com/drive/u/3/folders/19o4MvrK609q36IfdmNdZYzR_9Bl3PETJ)
 
 **Literature:**
-- Ron Larson & Bruce H. Edwards, *Multivariable Calculus*
-- James Stewart, *Calculus: Early Transcendentals*
-- J. Callahan, *Advanced Calculus, Lecture Notes*
+- Ron Larson & Bruce H. Edwards (2016) *Multivariable Calculus*
+- James Stewart (2008) *Calculus: Early Transcendentals*
+- J. Callahan (2011) *Advanced Calculus, Lecture Notes*
 
 ---
 
