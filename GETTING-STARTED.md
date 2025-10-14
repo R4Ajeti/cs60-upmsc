@@ -21,7 +21,7 @@ cd cs60-upmsc
 
 * Automated activation script that handles:
 * Python virtual environment creation/activation
-* Dependency installation
+* Base dependency installation
 * Environment variable loading
 * Cross-platform compatibility (macOS, Linux, Windows)
 
@@ -36,15 +36,15 @@ chmod +x activate
 
 #### What does the script do:
 
-* Creates a Python virtual environment named env if it doesn't exist
-* Activates the virtual environment
-* Installs dependencies from requirements.txt
-* Loads environment variables from .env file
+* Creates a Python virtual environment named env if "ENVIRONMENT_PATH" -> ".env" is empty or do not exist
+* Activates the virtual environment if "ENVIRONMENT_PATH" -> ".env" is set
+* Install dependencies from requirements.txt
+* Loads environment variables from .env file if exist
 * Sets up the Python path for the project
 
 ## 3. First Time Setup Checklist
 Clone the repository
-Run ./activate script
+Run ". ./activate" script (do not forget the first dot)
 Verify virtual environment is active (terminal should show (cs60_env))
 Check that dependencies are installed
 Copy .env.example to .env and configure variables if needed
