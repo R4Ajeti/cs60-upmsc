@@ -1,0 +1,7 @@
+The following dataset, obtained from OA2.2, contains statistics in arrests per 100,000 residents for assault and murder, in each of the 50 US states, in 1973. Also given is the percentage of the population living in urban areas.
+Now, use techniques at your disposal to prepare the dataset for analysis.
+    a. Address all the missing values.
+    b. Look for outliers and smooth noisy data.
+    c. Prepare the dataset to establish a relation between an urban population category and a crime type.
+
+[Hint: Convert the urban population percentage into categories, for example, small (<50%), medium (<60%), large (<70%), and extra-large (70% and above) urban population.]

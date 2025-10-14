@@ -1,0 +1,10 @@
+1. Create a categorical age_group variable using the following categories:
+    a. 18-35: Young Adult
+    b. 36-55: Middle Aged
+    c. +56: Senior
+2. Convert these heights to centimeters (cm) using the following conversion rate:
+    a. 1 inch = 2,54 centimeters
+3. Convert these weights to kilograms (kg) using the following conversion rate:
+    a. kg = Ibs * 0.45359237
+4. Create a new variable, bmi by filling in the values of the final column's cells using the formula (rounded to one decimal place):
+    a. BMI = Weight (kg) / (Height (m))^2
