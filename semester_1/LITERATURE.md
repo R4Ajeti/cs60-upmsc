@@ -23,6 +23,7 @@ All reading materials are available in the shared Google Drive folder:
 **Instructor:** Prof. Behar Baxhaku  
 **Assistant:** Ilir Destani  
 **Evaluation:** 25% Tasks • 25% Test 1 • 25% Test 2 • 25% Exercises  
+**Contact:** behar.baxhaku@uni-pr.edu  
 **Drive Folder:** [📂 Calculus Materials](https://drive.google.com/drive/u/3/folders/19o4MvrK609q36IfdmNdZYzR_9Bl3PETJ)
 
 **Literature:**
@@ -35,6 +36,7 @@ All reading materials are available in the shared Google Drive folder:
 ## 📙 Statistikë e Avancuar
 **Instructor:** Prof. Edmond Aliaga  
 **Evaluation:** 4 Assignments × 25%  
+**Contact:** edmond.aliaga@uni-pr.edu  
 **Drive Folder:** [📂 Statistics Materials](https://drive.google.com/drive/u/3/folders/19viGMOevUUKzRkxaL83XtnU9Ugi5IlTM)
 
 **Literature:**
@@ -49,6 +51,7 @@ All reading materials are available in the shared Google Drive folder:
 **Instructor:** Prof. Eliot Bytyqi  
 **Assistant:** Erblin Halabaku  
 **Evaluation:** Detyra 1–5 (10%, 10%, 10%, 35%, 35%)  
+**Contact:** eliot.bytyci@uni-pr.edu  
 **Drive Folder:** [📂 Research Methodology](https://drive.google.com/drive/u/3/folders/1ywjM-GTw9rbSzP9F5c6hcKsL6iJ9Em6G)
 
 **Literature:**
