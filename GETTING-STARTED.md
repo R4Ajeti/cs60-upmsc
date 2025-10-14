@@ -36,11 +36,11 @@ chmod +x activate
 
 #### What does the script do:
 
-* Creates a Python virtual environment named env if "ENVIRONMENT_PATH" -> ".env" is empty or do not exist
-* Activates the virtual environment if "ENVIRONMENT_PATH" -> ".env" is set
-* Install dependencies from requirements.txt
-* Loads environment variables from .env file if exist
-* Sets up the Python path for the project
+* Create a Python virtual environment named env if "ENVIRONMENT_PATH" -> ".env" is empty or do not exist
+* Activate the virtual environment if "ENVIRONMENT_PATH" -> ".env" is set
+* Make sure this dependencies "pip", "setuptools", "wheel" are installed
+* Load environment variables from .env file if exist
+* Set up the Python path for the project
 
 ## 3. First Time Setup Checklist
 Clone the repository
