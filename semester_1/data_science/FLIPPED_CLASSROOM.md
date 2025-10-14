@@ -51,7 +51,7 @@ Each week, one or more students lead the session through presentations, datasets
 
 | FIRST NAME and LAST NAME | Chapter | Google Slides | Dataset | Hands-On Exercise |
 |---------------------------|----------|----------------|-----------|-------------------|
-| Ajete Isaku | 4 | [🖼️ Add Slides](#) | [📂 Add Dataset](#) | [💻 Add Exercise](#) |
+| Ajete Isaku | 4 | [🖼️ Add Slides](#) | [📂 Dataset](./custdata.tsv) | [💻 Add Exercise](#) |
 
 ---
 
