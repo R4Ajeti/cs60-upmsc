@@ -32,6 +32,20 @@ All reading materials are available in the shared Google Drive folder:
 
 ---
 
+## 📙 Statistikë e Avancuar
+**Instructor:** Prof. Edmond Aliaga  
+**Evaluation:** 4 Assignments × 25%  
+**Contact:** edmond.aliaga@uni-pr.edu  
+**Drive Folder:** [📂 Statistics Materials](https://drive.google.com/drive/u/3/folders/19viGMOevUUKzRkxaL83XtnU9Ugi5IlTM) 
+
+**Literature:**
+- Peter D. Hoff (2009), *A First Course in Bayesian Statistical Methods*  ISBN-13(978-0387922997) (280 pages) [📚 View book](https://drive.google.com/file/d/1ZVKlYxTi6zFgh-Qb3nal9jontWrPi_hv/view)  
+- Joseph B. Kadane (2011), *Principles of Uncertainty*  ISBN-13(978-1439861615) (504 pages) [📚 View book](https://drive.google.com/file/d/156baC1dGgEIumTWeK7ihD3l478yFE2oW/view?usp=drive_link) 
+- John Kruschke (2014), *Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan*  ISBN-13(978-0124058880) (776 pages) [📚 View book](http://drive.google.com/file/d/1fNJi0l_P7L2jkCWi-UiISWKQ_QnHaxpn/view?usp=drive_link)  
+- Andrew Gelman, John B. Carlin, Hal S. Stern, Donald B. Rubin (2003), *Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan*  ISBN-13(978-1584883883) (690 pages) [📚 View book](http://drive.google.com/file/d/1fNJi0l_P7L2jkCWi-UiISWKQ_QnHaxpn/view?usp=drive_link) 
+
+---
+
 ## 📗 Kalkulus i Avancuar
 **Instructor:** Prof. Behar Baxhaku  
 **Assistant:** Ilir Destani  
@@ -43,21 +57,6 @@ All reading materials are available in the shared Google Drive folder:
 - Ron Larson & Bruce H. Edwards (2016) *Multivariable Calculus*
 - James Stewart (2008) *Calculus: Early Transcendentals*
 - J. Callahan (2011) *Advanced Calculus, Lecture Notes*
-
----
-
-## 📙 Statistikë e Avancuar
-**Instructor:** Prof. Edmond Aliaga  
-**Evaluation:** 4 Assignments × 25%  
-**Contact:** edmond.aliaga@uni-pr.edu  
-**Drive Folder:** [📂 Statistics Materials](https://drive.google.com/drive/u/3/folders/19viGMOevUUKzRkxaL83XtnU9Ugi5IlTM)
-
-**Literature:**
-- Hoff, P.D. *A First Course in Bayesian Statistical Methods*
-- Kadane, J.B. *Principles of Uncertainty*
-- Kruschke, J. *Doing Bayesian Data Analysis*
-- Gelman, A. et al. *Bayesian Data Analysis*
-
 ---
 
 
