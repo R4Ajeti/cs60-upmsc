@@ -42,7 +42,7 @@ All reading materials are available in the shared Google Drive folder:
 - Peter D. Hoff (2009), *A First Course in Bayesian Statistical Methods*  ISBN-13(978-0387922997) (280 pages) [📚 View book](https://drive.google.com/file/d/1ZVKlYxTi6zFgh-Qb3nal9jontWrPi_hv/view)  
 - Joseph B. Kadane (2011), *Principles of Uncertainty*  ISBN-13(978-1439861615) (504 pages) [📚 View book](https://drive.google.com/file/d/156baC1dGgEIumTWeK7ihD3l478yFE2oW/view?usp=drive_link) 
 - John Kruschke (2014), *Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan*  ISBN-13(978-0124058880) (776 pages) [📚 View book](http://drive.google.com/file/d/1fNJi0l_P7L2jkCWi-UiISWKQ_QnHaxpn/view?usp=drive_link)  
-- Andrew Gelman, John B. Carlin, Hal S. Stern, Donald B. Rubin (2003), *Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan*  ISBN-13(978-1584883883) (690 pages) [📚 View book](http://drive.google.com/file/d/1fNJi0l_P7L2jkCWi-UiISWKQ_QnHaxpn/view?usp=drive_link) 
+- Andrew Gelman, John B. Carlin, Hal S. Stern, Donald B. Rubin (2003), *Bayesian Data Analysis, Second Edition (Chapman & Hall CRC Texts in Statistical Science)*  ISBN-13(978-1584883883) (690 pages) [📚 View book](https://drive.google.com/file/d/1hCNo79iVyMj0BOEeaZjFuq2s9XQOu4wi/view?usp=drive_link) 
 
 ---
 
