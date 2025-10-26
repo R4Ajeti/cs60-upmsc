@@ -54,7 +54,7 @@ All reading materials are available in the shared Google Drive folder:
 **Drive Folder:** [📂 Calculus Materials](https://drive.google.com/drive/u/3/folders/19o4MvrK609q36IfdmNdZYzR_9Bl3PETJ)
 
 **Literature:**
-- Ron Larson & Bruce H. Edwards (2022), *Multivariable Calculus(Cengage Learning) 12th Edition*  ISBN-13(978-0357749159) (480 pages) [📚 View book](https://drive.google.com/file/d/1KfIg37kGrtH8Qq42edQrmYVgIxGgVZgy/view?usp=drive_link)  
+- Ron Larson & Bruce H. Edwards (2022), *Multivariable Calculus(Cengage Learning) 12th Edition*  ISBN-13(978-0357749159) (480 pages) [📚 View book](https://drive.google.com/file/d/1wR2tyYO1H5BqlS9kQntJIJgMWq5wemug/view?usp=drive_link)  
 - James Stewart (2015), *Calculus: Early Transcendentals(Cengage Learning) 8th Edition*  ISBN-13(978-1285741550) (1368 pages) [📚 View book](https://drive.google.com/file/d/1lkGfB4iq9X6MylzxI888Nm6RTSidVqxK/view?usp=drive_link)    
 - James Stewart (2015), *Student Solutions Manual - Calculus: Early Transcendentals(Cengage Learning) 8th Edition*  ISBN-13(978-1305272422) (576 pages) [📚 View book](https://drive.google.com/file/d/1xkUsnTB9a2w4qAPbfcHIA89keZqLtYvs/view?usp=drive_link) 
 - James J. Callahan (2010), *Advanced Calculus: A Geometric View (Undergraduate Texts in Mathematics) 2010th Edition, Lecture Notes (Springer)*  ISBN-13(978-1441973313) (542 pages) [📚 View book](https://drive.google.com/file/d/1mRxFUiS7T1ymSKCs_d7QEHX514BPx4PO/view?usp=drive_link)  
